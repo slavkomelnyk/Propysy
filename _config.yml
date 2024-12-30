@@ -1,4 +1,4 @@
-title: Hello! I'm Slavko
+title: Прописи Майнкрафт
 description: > # this means to ignore newlines until "baseurl:"
 permalink: ':title/'
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -9,10 +9,10 @@ keywords:
 # Author Settings
 author: Slavko Melnyk # add your name
 author-img: slavko.png # add your photo
-about-author: Я Славко Мельник, мені 11 років. Я створив прописи для дітей, які, як і я, обожнюють Minecraft, і хочуть поєднати навчання з цікавими фактами про цю гру!
+about-author: Я Славко Мельник, мені 11 років. Я створив прописи для дітей, які, як і я, обожнюють Майнкрафт, і хочуть поєднати навчання з цікавими фактами про цю гру!
 social-twitter: # add your Twitter handle
 social-facebook: # add your Facebook handle
-social-github: slavkomelnyk # add your Github handle
+social-github: slavkomelnyk/Propysy # add your Github handle
 social-linkedin: # add your Linkedin handle
 social-email: # add your Email address
 social-pinterest: propysy
